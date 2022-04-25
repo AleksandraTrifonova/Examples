@@ -1,0 +1,15 @@
+/Users/artem/Desktop/Examples/Example002 _HelloUser/bin/Debug/net6.0/Example002 _HelloUser
+/Users/artem/Desktop/Examples/Example002 _HelloUser/bin/Debug/net6.0/Example002 _HelloUser.deps.json
+/Users/artem/Desktop/Examples/Example002 _HelloUser/bin/Debug/net6.0/Example002 _HelloUser.runtimeconfig.json
+/Users/artem/Desktop/Examples/Example002 _HelloUser/bin/Debug/net6.0/Example002 _HelloUser.dll
+/Users/artem/Desktop/Examples/Example002 _HelloUser/bin/Debug/net6.0/Example002 _HelloUser.pdb
+/Users/artem/Desktop/Examples/Example002 _HelloUser/obj/Debug/net6.0/Example002 _HelloUser.csproj.AssemblyReference.cache
+/Users/artem/Desktop/Examples/Example002 _HelloUser/obj/Debug/net6.0/Example002 _HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Desktop/Examples/Example002 _HelloUser/obj/Debug/net6.0/Example002 _HelloUser.AssemblyInfoInputs.cache
+/Users/artem/Desktop/Examples/Example002 _HelloUser/obj/Debug/net6.0/Example002 _HelloUser.AssemblyInfo.cs
+/Users/artem/Desktop/Examples/Example002 _HelloUser/obj/Debug/net6.0/Example002 _HelloUser.csproj.CoreCompileInputs.cache
+/Users/artem/Desktop/Examples/Example002 _HelloUser/obj/Debug/net6.0/Example002 _HelloUser.dll
+/Users/artem/Desktop/Examples/Example002 _HelloUser/obj/Debug/net6.0/refint/Example002 _HelloUser.dll
+/Users/artem/Desktop/Examples/Example002 _HelloUser/obj/Debug/net6.0/Example002 _HelloUser.pdb
+/Users/artem/Desktop/Examples/Example002 _HelloUser/obj/Debug/net6.0/Example002 _HelloUser.genruntimeconfig.cache
+/Users/artem/Desktop/Examples/Example002 _HelloUser/obj/Debug/net6.0/ref/Example002 _HelloUser.dll
