@@ -1,0 +1,15 @@
+/Users/artem/Desktop/Examples/Example004_Div/bin/Debug/net6.0/Example004_Div
+/Users/artem/Desktop/Examples/Example004_Div/bin/Debug/net6.0/Example004_Div.deps.json
+/Users/artem/Desktop/Examples/Example004_Div/bin/Debug/net6.0/Example004_Div.runtimeconfig.json
+/Users/artem/Desktop/Examples/Example004_Div/bin/Debug/net6.0/Example004_Div.dll
+/Users/artem/Desktop/Examples/Example004_Div/bin/Debug/net6.0/Example004_Div.pdb
+/Users/artem/Desktop/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.AssemblyReference.cache
+/Users/artem/Desktop/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Desktop/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfoInputs.cache
+/Users/artem/Desktop/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfo.cs
+/Users/artem/Desktop/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.CoreCompileInputs.cache
+/Users/artem/Desktop/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.dll
+/Users/artem/Desktop/Examples/Example004_Div/obj/Debug/net6.0/refint/Example004_Div.dll
+/Users/artem/Desktop/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.pdb
+/Users/artem/Desktop/Examples/Example004_Div/obj/Debug/net6.0/Example004_Div.genruntimeconfig.cache
+/Users/artem/Desktop/Examples/Example004_Div/obj/Debug/net6.0/ref/Example004_Div.dll
