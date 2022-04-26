@@ -1,0 +1,15 @@
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/bin/Debug/net6.0/Example005_Condition_if_else
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/bin/Debug/net6.0/Example005_Condition_if_else.deps.json
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/bin/Debug/net6.0/Example005_Condition_if_else.runtimeconfig.json
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/bin/Debug/net6.0/Example005_Condition_if_else.dll
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/bin/Debug/net6.0/Example005_Condition_if_else.pdb
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/obj/Debug/net6.0/Example005_Condition_if_else.csproj.AssemblyReference.cache
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/obj/Debug/net6.0/Example005_Condition_if_else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/obj/Debug/net6.0/Example005_Condition_if_else.AssemblyInfoInputs.cache
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/obj/Debug/net6.0/Example005_Condition_if_else.AssemblyInfo.cs
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/obj/Debug/net6.0/Example005_Condition_if_else.csproj.CoreCompileInputs.cache
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/obj/Debug/net6.0/Example005_Condition_if_else.dll
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/obj/Debug/net6.0/refint/Example005_Condition_if_else.dll
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/obj/Debug/net6.0/Example005_Condition_if_else.pdb
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/obj/Debug/net6.0/Example005_Condition_if_else.genruntimeconfig.cache
+/Users/artem/Desktop/Examples/Example005_Condition_if_else/obj/Debug/net6.0/ref/Example005_Condition_if_else.dll
